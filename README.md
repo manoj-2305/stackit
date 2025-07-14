@@ -3,16 +3,6 @@
 
 StackIt is a full-featured Q&A platform built with a modern, futuristic aesthetic. It allows users to ask questions, provide answers, vote on content, and build a community around solving technical problems. The project leverages Next.js for the frontend and Firebase for the backend services, including authentication, database, and storage.
 
-## 👥 Team Members
-
-@VedhanthA      Team Leader |
-@Yogyatha-09      Developer |
-@manoj-2305         Backend |
-@sharanreddy12      Backend |
-
----
-
-
 ## Core Features
 
 -   **User Authentication**: Secure user sign-up and login using Firebase Authentication (Email/Password).
@@ -168,12 +158,3 @@ Your Firestore database will be populated with the following collections as you 
 -   `notifications`: Stores notifications for users (e.g., when their question gets an answer).
 
 No manual setup of these collections is required; they will be created automatically as users interact with the application.
-```
-=======
-### 👥 Team Members
-
-| ![@VedhanthA](https://github.com/VedhanthA.png?size=80) | ![@Yogyatha-09](https://github.com/Yogyatha-09.png?size=80) | ![@manoj-2305](https://github.com/manoj-2305.png?size=80) | ![@sharanreddy12](https://github.com/sharanreddy12.png?size=80) |
-|:--:|:--:|:--:|:--:|
-| [Vedhanth Atthuluri](https://github.com/VedhanthA) <br> Team Leader | [Yogyatha Sai](https://github.com/Yogyatha-09) <br> Developer | [Manoj M](https://github.com/manoj-2305) <br> Backend | [Sharan Reddy](https://github.com/sharanreddy12) <br> Frontend |
-# STACKIT
->>>>>>> 575b43d2d8268ad1134754eb156f7de7452aa46b
